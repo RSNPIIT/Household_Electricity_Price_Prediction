@@ -1,0 +1,11 @@
+# Python bytecode & environments
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# Matplotlib & OS caches
+.DS_Store
+.matplotlib/
